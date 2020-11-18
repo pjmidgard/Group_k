@@ -22,7 +22,7 @@ import java.io.BufferedReader;//Public class BufferedReader extends Reader.
 import java.io.InputStreamReader;//An InputStreamReader is a bridge from byte streams to character streams.
 /**
  *
- * @author Angel2014fly
+ * @author Jurijus Pacalovas
  */
 public class CA1groupk {
 
